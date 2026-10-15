@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="130" viewBox="0 0 660 130">
+  <style>
+    .line { opacity: 0; animation: cyc 16s infinite; }
+    .l1 { animation-delay: 0s; }
+    .l2 { animation-delay: 4s; }
+    .l3 { animation-delay: 8s; }
+    .l4 { animation-delay: 12s; }
+    @keyframes cyc {
+      0%   { opacity: 0; }
+      4%   { opacity: 1; }
+      21%  { opacity: 1; }
+      25%  { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <text class="line l1" x="330" y="62" text-anchor="middle" font-family="Consolas, Microsoft YaHei, monospace" font-size="26" font-weight="600" fill="#8b5cf6">区块链专业在读</text>
+  <text class="line l2" x="330" y="62" text-anchor="middle" font-family="Consolas, Microsoft YaHei, monospace" font-size="26" font-weight="600" fill="#8b5cf6">Go / Solidity 开发者</text>
+  <text class="line l3" x="330" y="62" text-anchor="middle" font-family="Consolas, Microsoft YaHei, monospace" font-size="26" font-weight="600" fill="#8b5cf6">跨境电商技术玩家</text>
+  <text class="line l4" x="330" y="62" text-anchor="middle" font-family="Consolas, Microsoft YaHei, monospace" font-size="26" font-weight="600" fill="#8b5cf6">白天写合约，晚上卖酒</text>
+
+  <text x="330" y="100" text-anchor="middle" font-family="Consolas, monospace" font-size="26" fill="#8b5cf6" class="cursor">▌</text>
+</svg>
