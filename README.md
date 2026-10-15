@@ -34,8 +34,15 @@
 ### 🎨 [LS-Design-Workbench](https://github.com/Lewis34566/LS-Design-Workbench) —— 网页设计工作台
 **Electron** 打造的类 Dreamweaver 所见即所得编辑器，网页设计一条龙。
 
-### 🍾 酒链 B2B —— 跨境酒水交易平台（开发中 🔜）
-把卖酒的经验写进代码里，敬请期待。
+### 🍾 酒链 B2B —— 酒公司平台的 B2B 系统
+纯前端（HTML + CSS + 原生 JS）+ **Supabase**（PostgreSQL / Auth / RLS），葡萄酒产业带的 B2B 商家对接平台：酒款大厅、供应商与采购商双后台、询价下单、站内消息一站打通。
+
+- 🗄️ **5 张表 · 15 条 RLS 策略 · 4 个触发器**：每表 3 条策略按角色收紧，数据权限写在数据库里
+- 💰 **金额的唯一真相在数据库**：前端只传 `quantity`，单价与总额由触发器从酒款表推导回填
+- 🔁 **订单状态机在数据库**：待确认→已确认→已发货→已完成，强制校验「谁能确认/发货/收货」，确认时自动扣库存
+- 📱 手机优先响应式，酒红 × 金色主题；站内消息实时推送 + 8 秒轮询兜底
+
+**在线演示：** [winelink-b2b.app.workbuddy.host](https://winelink-b2b.app.workbuddy.host/)
 
 ## 📮 联系我
 
