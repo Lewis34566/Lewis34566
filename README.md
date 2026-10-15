@@ -37,14 +37,6 @@
 ### 🍾 酒链 B2B —— 跨境酒水交易平台（开发中 🔜）
 把卖酒的经验写进代码里，敬请期待。
 
-## 📊 GitHub 数据
-
-<p align="center">
-  <a href="https://github.com/Lewis34566?tab=followers"><img src="https://img.shields.io/github/followers/Lewis34566?style=for-the-badge&label=%E5%85%B3%E6%B3%A8%E8%80%85&labelColor=1e1b4b&color=7c3aed" /></a>
-  <img src="https://img.shields.io/github/stars/Lewis34566?style=for-the-badge&label=Stars&labelColor=1e1b4b&color=7c3aed" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLewis34566&query=%24.public_repos&style=for-the-badge&label=%E4%BB%93%E5%BA%93&labelColor=1e1b4b&color=7c3aed" />
-</p>
-
 ## 📮 联系我
 
 <p align="center">
