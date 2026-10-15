@@ -1,14 +1,13 @@
 <p align="center">
-  <img src="https://caps-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=180&section=header&text=Hi%2C%20I%27m%20Lewis&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="assets/banner.svg" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=%E5%8C%BA%E5%9D%97%E9%93%BE%E4%B8%93%E4%B8%9A%E5%9C%A8%E8%AF%BB;Go+%2F+Solidity+%E5%BC%80%E5%8F%91%E8%80%85;%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%E6%8A%80%E6%9C%AF%E7%8E%A9%E5%AE%B6;%E7%99%BD%E5%A4%A9%E5%86%99%E5%90%88%E7%BA%A6%EF%BC%8C%E6%99%9A%E4%B8%8A%E5%8D%96%E9%85%92" />
+  <img src="assets/typing.svg" width="660"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lewis34566&label=%E8%A2%AB%E5%81%B7%E7%9C%8B%E6%AC%A1%E6%95%B0&color=blueviolet" />
-  <a href="https://github.com/Lewis34566?tab=followers"><img src="https://img.shields.io/github/followers/Lewis34566?style=social" /></a>
 </p>
 
 ## 👋 关于我
@@ -41,8 +40,9 @@
 ## 📊 GitHub 数据
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lewis34566&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lewis34566&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%" />
+  <a href="https://github.com/Lewis34566?tab=followers"><img src="https://img.shields.io/github/followers/Lewis34566?style=for-the-badge&label=%E5%85%B3%E6%B3%A8%E8%80%85&labelColor=1e1b4b&color=7c3aed" /></a>
+  <img src="https://img.shields.io/github/stars/Lewis34566?style=for-the-badge&label=Stars&labelColor=1e1b4b&color=7c3aed" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLewis34566&query=%24.public_repos&style=for-the-badge&label=%E4%BB%93%E5%BA%93&labelColor=1e1b4b&color=7c3aed" />
 </p>
 
 ## 📮 联系我
@@ -56,5 +56,5 @@
 </p>
 
 <p align="center">
-  <img src="https://caps-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer" width="100%"/>
+  <img src="assets/footer.svg" width="100%"/>
 </p>
