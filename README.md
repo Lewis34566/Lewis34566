@@ -42,8 +42,6 @@
 - 🔁 **订单状态机在数据库**：待确认→已确认→已发货→已完成，强制校验「谁能确认/发货/收货」，确认时自动扣库存
 - 📱 手机优先响应式，酒红 × 金色主题；站内消息实时推送 + 8 秒轮询兜底
 
-**在线演示：** [winelink-b2b.app.workbuddy.host](https://winelink-b2b.app.workbuddy.host/)
-
 ## 📮 联系我
 
 <p align="center">
