@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lewis34566&label=%E8%A2%AB%E5%81%B7%E7%9C%8B%E6%AC%A1%E6%95%B0&color=blueviolet" />
+  <img src="https://hits.sh/github.com/Lewis34566.svg?label=%E8%A2%AB%E5%81%B7%E7%9C%8B%E6%AC%A1%E6%95%B0&color=7c3aed&labelColor=4c1d95&style=for-the-badge" alt="被偷看次数" />
 </p>
 
 ## 👋 关于我
 
 > 就是一卖酒和写合约的。
 
-- 🎓 区块链专业在读，日常写 **Go** 和**智能合约*，对C语言也是在学习当中。
+- 🎓 区块链专业在读，日常写 **Go** 和**智能合约**，对C语言也是在学习当中。
 - 🛒 跨境电商玩家：做过不少跨境场景的程序，AI 客服、业务小工具都踩过坑也填过坑
 - 🤖 用 **AI Agent** 帮实体商家做过客服——让小店也拥有 7×24 的智能店员
 - 🍾 副业做酒类生意，坚信技术要绑定商业，每一行代码都该离钱近一点
