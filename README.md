@@ -34,7 +34,7 @@
 ### 🎨 [LS-Design-Workbench](https://github.com/Lewis34566/LS-Design-Workbench) —— 网页设计工作台
 **Electron** 打造的类 Dreamweaver 所见即所得编辑器，网页设计一条龙。
 
-### 🍾 [酒链 B2B](https://lewis34566.github.io/wine-b2b/) —— 酒公司平台的 B2B 系统
+### 🍾 [wine-b2b](https://lewis34566.github.io/wine-b2b/) —— 酒公司平台的 B2B 系统
 纯前端（HTML + CSS + 原生 JS）+ **Supabase**（PostgreSQL / Auth / RLS），葡萄酒产业带的 B2B 商家对接平台：酒款大厅、供应商与采购商双后台、询价下单、站内消息一站打通。
 
 - 🗄️ **5 张表 · 15 条 RLS 策略 · 4 个触发器**：每表 3 条策略按角色收紧，数据权限写在数据库里
