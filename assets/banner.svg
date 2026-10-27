@@ -9,7 +9,7 @@
 
   <rect width="1200" height="300" fill="url(#bg)"/>
 
-  <!-- 气泡 -->
+  <!-- bubbles -->
   <circle cx="990" cy="52" r="30" fill="#ffffff" opacity="0.08"/>
   <circle cx="1120" cy="90" r="12" fill="#ffffff" opacity="0.12"/>
   <circle cx="1060" cy="205" r="16" fill="#ffffff" opacity="0.10"/>
@@ -19,7 +19,7 @@
   <circle cx="350" cy="30" r="6" fill="#ffffff" opacity="0.12"/>
   <circle cx="520" cy="250" r="10" fill="#ffffff" opacity="0.08"/>
 
-  <!-- 酒杯 -->
+  <!-- wine glass -->
   <g opacity="0.92">
     <path d="M932 82 h102 l-8 40 q-43 22 -86 0 z" fill="#f8fafc"/>
     <rect x="980" y="122" width="6" height="42" rx="2" fill="#f8fafc"/>
@@ -28,11 +28,11 @@
   <circle cx="972" cy="96" r="5" fill="#ffffff" opacity="0.35"/>
   <circle cx="996" cy="104" r="3" fill="#ffffff" opacity="0.35"/>
 
-  <!-- 标题 -->
-  <text x="60" y="128" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="62" font-weight="700" fill="#ffffff">Hi, I'm Lewis</text>
-  <text x="62" y="176" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="27" fill="#c4b5fd">区块链 × 跨境电商 × AI × 酒</text>
-  <text x="62" y="214" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="17" fill="#a78bfa">Go / Solidity 开发者 · 跨境电商技术玩家</text>
+  <!-- title -->
+  <text x="60" y="128" font-family="Segoe UI, sans-serif" font-size="62" font-weight="700" fill="#ffffff">Hi, I'm Lewis</text>
+  <text x="62" y="176" font-family="Segoe UI, sans-serif" font-size="27" fill="#c4b5fd">Blockchain × Cross-Border E-Commerce × AI × Wine</text>
+  <text x="62" y="214" font-family="Segoe UI, sans-serif" font-size="17" fill="#a78bfa">Go / Solidity Developer · Cross-Border E-Commerce Builder</text>
 
-  <!-- 底部波浪 -->
+  <!-- bottom wave -->
   <path d="M0 262 Q 150 240 300 262 T 600 262 T 900 262 T 1200 262 L 1200 300 L 0 300 Z" fill="#ffffff" opacity="0.07"/>
 </svg>
