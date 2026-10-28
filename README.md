@@ -40,6 +40,9 @@ Pure frontend (HTML + CSS + vanilla JS) + **Supabase** (PostgreSQL / Auth / RLS)
 ### 📱 [phone-vibe](https://github.com/Lewis34566/phone-vibe) — An Agent You Can Run on Your Phone
 Describe your needs in Chinese on your phone, and the AI Agent writes the code, runs it, and packages it into an app — no computer needed, no coding skills required. One sentence turns your idea into working software.
 
+### 🤖 [phone-agent](https://github.com/Lewis34566/phone-agent) — Phone Automation Assistant
+A native Android agent (**Kotlin + Jetpack Compose**) with a real tool-use agent loop. Snap a mistake photo → on-device OCR → auto-saved to a spaced-repetition notebook with daily review reminders. One sentence, and Lewis gets things done on your phone.
+
 ## 📮 Contact Me
 
 <p align="center">
