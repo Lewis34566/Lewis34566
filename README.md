@@ -28,7 +28,7 @@
 
 ## 🚀 Projects
 
-### 🎓 [top-up-degree-programmes-shanghai](https://github.com/Lewis34566/top-up-degree-programmes-shanghai) — A Personal Summary of Top-up Degree Programmes in Shanghai
+### 🎓 [shanghai-computer-science-topup-degree](https://github.com/Lewis34566/shanghai-computer-science-topup-degree) — Computer Science Top-up Degrees in Shanghai
 An independent research project on Shanghai's **专升本** (top-up degree) admissions for computer-science students: verified seat counts, exam subjects, major-matching rules, tuition and the real two-year cost — parsed from 10 schools' 2026 charters, not marketing copy. The headline finding: **82 public vs 922 private CS seats**. Also ships a decision framework on whether the degree is worth taking at all.
 
 ### ⛓️ [blockchain-medical](https://github.com/Lewis34566/blockchain-medical) — Blockchain Medical Data Platform
